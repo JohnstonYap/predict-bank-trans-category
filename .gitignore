@@ -8,7 +8,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore environment-specific files
-.env
+.env/
 
-.models
-.results
+.models/
+.results/
