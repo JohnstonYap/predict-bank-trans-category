@@ -10,6 +10,4 @@ __pycache__/
 # Ignore environment-specific files
 .env/
 
-.models/
-.results/
 /models
